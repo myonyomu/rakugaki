@@ -2,7 +2,7 @@
 Repository for record of library trial, study, WIP, and others. Most in the repository is incomplete.
 
 ## Reference for me
-- [Git submodule](m3tech.blog/entry/git-submodule)
+- [Git submodule](https://www.m3tech.blog/entry/git-submodule)
 
 - Submodule add
 ```shell
