@@ -1,3 +1,6 @@
 [submodule "rakugaki-mono-sam"]
 	path = rakugaki-mono-sam
 	url = git@github.com:myonyomu/rakugaki-mono-sam.git
+[submodule "rakugaki-golang"]
+	path = rakugaki-golang
+	url = git@github.com:myonyomu/rakugaki-golang.git
