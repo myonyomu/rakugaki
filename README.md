@@ -11,5 +11,10 @@ git submodule add "ssh://gitlab.example.com/myonyomu/rakugaki-hogehoge-fugafuga.
 
 - Submodule update
 ```shell
+cd rakugaki-xxx
+git pull <remote> <branch>
+git checkout <remote> <branch>
+git submodule update --recursive
+cd ../
 git submodule update --recursive
 ```
