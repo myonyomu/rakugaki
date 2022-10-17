@@ -15,5 +15,5 @@ cd rakugaki-xxx
 git pull <remote> <branch>
 git checkout <branch>
 cd ../
-git submodule update --recursive
+# commit and push
 ```
